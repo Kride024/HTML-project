@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm working on based on HTML and CSS<br>I'm doing competitive programming and DP<br>I'm learning CSS<br>Ask me more about development and CP<br>fun fact: I'm Electrical Engineer!!<br>"Tech Enthusiast"
+I'm working on project based on HTML and CSS<br>I'm doing competitive programming and DP<br>I'm learning CSS<br>Ask me more about development and CP<br>fun fact: I'm Electrical Engineer!!<br>"Tech Enthusiast"
 
 
 ## 🌐 Socials:
